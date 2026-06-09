@@ -1,12 +1,12 @@
 {
-  "name": "سوبرماركت المحاسبي الاحترافي",
-  "short_name": "سوبرماركت",
-  "start_url": "index.html",
+  "name": "كاشير أوسكار المحاسبي",
+  "short_name": "كاشير أوسكار",
+  "start_url": "index.html?app=1",
   "display": "standalone",
   "dir": "rtl",
   "lang": "ar",
-  "background_color": "#edf4f1",
-  "theme_color": "#0f9f6e",
+  "background_color": "#f4f7f7",
+  "theme_color": "#EA580B",
   "icons": [
     {
       "src": "icon.svg",

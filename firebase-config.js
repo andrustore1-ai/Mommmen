@@ -1,14 +1,13 @@
 // ملف توافق لمن كان يستدعي firebase-config.js سابقاً
-// الإعداد الفعلي موجود في firebase.js، وهذا الملف يمنع أخطاء 404 في أي نسخة قديمة.
 window.OSKAR_FIREBASE_CONFIG_READY = true;
-
+window.OSKAR_FIREBASE_LOGIN_KEY = "echo-store-cdgjhdvjt";
 window.OSKAR_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyCnLAY7zQyBy7gUuL9wszt9aEhiJgvRmxI",
-  authDomain: "shop-d52dc.firebaseapp.com",
-  databaseURL: "https://shop-d52dc-default-rtdb.firebaseio.com",
-  projectId: "shop-d52dc",
-  storageBucket: "shop-d52dc.appspot.com",
-  messagingSenderId: "97580537866",
-  appId: "1:97580537866:web:abc46e5a2f527b6300a7f3",
-  measurementId: "G-956RQMBP42"
+  apiKey: "AIzaSyAVY0yl1HHJ-rDtjIwunHxPV9xIxXHfY5k",
+  authDomain: "fddf-e31c3.firebaseapp.com",
+  databaseURL: "https://fddf-e31c3-default-rtdb.firebaseio.com",
+  projectId: "fddf-e31c3",
+  storageBucket: "fddf-e31c3.firebasestorage.app",
+  messagingSenderId: "396607250231",
+  appId: "1:396607250231:web:d49938c3b5e4050d2444b2",
+  measurementId: "G-63KR330MPC"
 };
